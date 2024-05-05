@@ -51,8 +51,9 @@ int main(void)
 
 ```
 ## OUTPUT
+![318005559-15c28aa0-5670-494a-b712-b36aa2dbf1d5](https://github.com/Goutham2306/Linux-Process-API-fork-wait-exec/assets/138971154/5a6092b4-04f7-4132-bf0e-9a281943a418)
 
-![image](https://github.com/saiganesh2006/Linux-Process-API-fork-wait-exec/assets/145742342/15c28aa0-5670-494a-b712-b36aa2dbf1d5)
+
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -77,9 +78,9 @@ exit(0);}
 
 ```
 ## OUTPUT
-![image](https://github.com/saiganesh2006/Linux-Process-API-fork-wait-exec/assets/145742342/9134c939-35d8-4ea7-aa05-ede6f1bd49fe)
+![318005539-9134c939-35d8-4ea7-aa05-ede6f1bd49fe](https://github.com/Goutham2306/Linux-Process-API-fork-wait-exec/assets/138971154/aecebe0f-0bf9-4170-933a-eb3968582a62)
 
-
+ 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
 //C Program to create new process using Linux API system calls fork() and exit()
@@ -104,8 +105,10 @@ exit(0);}
 ```
 
 ## OUTPUT
+![318005585-662799cb-b088-4a2a-894d-4cbba685d1e2](https://github.com/Goutham2306/Linux-Process-API-fork-wait-exec/assets/138971154/8a69b592-b5da-4a3a-98ed-a805ccdfb889)
 
-
+## RESULT:
+The programs are executed successfully.
 
 
 
